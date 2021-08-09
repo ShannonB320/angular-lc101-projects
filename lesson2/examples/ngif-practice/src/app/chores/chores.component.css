@@ -6,7 +6,21 @@
     color: #3c79b8;
 }
 
+.iceCream {
+    color: green;
+    text-align: center;
+}
+
+.badThing {
+    color: red;
+    text-align: center;
+}
+
 h3 {
+    text-align: center;
+}
+
+h1 {
     text-align: center;
 }
 
@@ -16,3 +30,4 @@ img {
     display: block;
     margin: auto;
 }
+
